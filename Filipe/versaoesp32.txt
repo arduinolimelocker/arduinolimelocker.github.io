@@ -1,8 +1,8 @@
 {
-  "swVersion": "3.0",
+  "swVersion": "4.0",
   "swMandatory": false,
   "swRelease": "2021-06-30T17:44:56Z",
-  "swURL": "https://arduinolimelocker.github.io/Filipe/AppLockerLime3V3.esp32.bin", 
+  "swURL": "https://arduinolimelocker.github.io/Filipe/AppLockerLime3V3.ino.esp32.bin", 
   "swName": "AppLockerLime3V3.ino.esp32.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
