@@ -1,5 +1,5 @@
 {
-  "swVersion": "6.0",
+  "swVersion": "7.0",
   "swMandatory": false,
   "swRelease": "2022-05-26T12:32:56Z",
   "swURL": "https://arduinolimelocker.github.io/GrandParkLindoia/AppLockerLime3V4-6_IFOOD_8_GPL.ino.esp32.bin", 
