@@ -1,0 +1,12 @@
+{
+  "swVersion": "13.0",
+  "swMandatory": false,
+  "swRelease": "2022-09-26T12:32:56Z",
+  "swURL":"https://arduinolimelocker.github.io/VivioLindoia/AppLockerLime_FULL_V1_LIME4A.ino.esp32.bin", 
+  "swName": "AppLockerLime_FULL_V1_LIME4A.ino.esp32.bin",
+  "fsVersion": "0.0",
+  "fsMandatory": false,
+  "fsRelease": "2022-05-26T12:32:56Z",
+  "fsURL": "",
+  "fsName": "AppLockerLime_FULL_V1_LIME4A.ino.esp32"
+}
