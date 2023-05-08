@@ -1,5 +1,5 @@
 {
-  "swVersion": "2.0",
+  "swVersion": "3.0",
   "swMandatory": false,
   "swRelease": "2023-05-03T10:24:56Z",
   "swURL":"https://arduinolimelocker.github.io/firmware-pakpobox-slave/firmware-rs485-pakpobox.ino.esp32.bin", 
