@@ -1,0 +1,12 @@
+{
+  "swVersion": "2.0",
+  "swMandatory": false,
+  "swRelease": "2023-05-16T10:24:56Z",
+  "swURL":"https://arduinolimelocker.github.io/firmwarei2c-clique-slave/CLIQUE1.8_SLAVE_PLACANOVA_FIRMWARE.ino.esp32.bin", 
+  "swName": "CLIQUE1.8_SLAVE_PLACANOVA_FIRMWARE.ino.esp32.bin",
+  "fsVersion": "0.0",
+  "fsMandatory": false,
+  "fsRelease": "2023-05-16T10:24:56Z",
+  "fsURL": "",
+  "fsName": "CLIQUE1.8_SLAVE_PLACANOVA_FIRMWARE.ino.esp32"
+}
