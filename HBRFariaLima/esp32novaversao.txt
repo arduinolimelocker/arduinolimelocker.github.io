@@ -1,5 +1,5 @@
 {
-  "swVersion": "16.0",
+  "swVersion": "17.0",
   "swMandatory": false,
   "swRelease": "2023-04-03T12:32:56Z",
   "swURL": "https://arduinolimelocker.github.io/HBRFariaLima/AppLockerLime_STORAGE_V10_LIME4A.ino.esp32.bin", 
