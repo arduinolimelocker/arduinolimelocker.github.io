@@ -2,7 +2,7 @@
   "swVersion": "18.0",
   "swMandatory": false,
   "swRelease": "2023-07-04T12:32:56Z",
-  "swURL": "https://arduinolimelocker.github.io/HBRFariaLima/AppLockerLime_STORAGE_V12_LIME4A.ino.esp32.bin", 
+  "swURL": "https://arduinolimelocker.github.io/HBRFariaLimaS3/AppLockerLime_STORAGE_V12_LIME4A.ino.esp32.bin", 
   "swName": "AppLockerLime_STORAGE_V12_LIME4A.ino.esp32.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
