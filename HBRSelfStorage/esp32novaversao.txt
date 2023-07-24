@@ -1,12 +1,12 @@
 {
-  "swVersion": "20.0",
+  "swVersion": "21.0",
   "swMandatory": false,
-  "swRelease": "2023-07-11T17:32:56Z",
-  "swURL": "https://arduinolimelocker.github.io/HBRSelfStorage/AppLockerLime_STORAGE_V12_LIME4A.ino.esp32.bin", 
-  "swName": "AppLockerLime_STORAGE_V12_LIME4A.ino.esp32.bin",
+  "swRelease": "2023-07-24T17:32:56Z",
+  "swURL": "https://arduinolimelocker.github.io/HBRSelfStorage/AppLockerLime_STORAGE_V13_LIME4A.ino.esp32.bin", 
+  "swName": "AppLockerLime_STORAGE_V13_LIME4A.ino.esp32.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
-  "fsRelease": "2023-07-11T17:32:56Z",
+  "fsRelease": "2023-07-24T17:32:56Z",
   "fsURL": "",
-  "fsName": "AppLockerLime_STORAGE_V12_LIME4A.ino.esp32"
+  "fsName": "AppLockerLime_STORAGE_V13_LIME4A.ino.esp32"
 }
