@@ -1,5 +1,5 @@
 {
-  "swVersion": "15.0",
+  "swVersion": "9.0",
   "swMandatory": false,
   "swRelease": "2024-05-31T12:32:56Z",
   "swURL": "https://arduinolimelocker.github.io/iFood240-1/LOCKERIFOOD_VICTORVISION_V9.ino.esp32.bin", 
