@@ -1,12 +1,12 @@
 {
-  "swVersion": "10.0",
+  "swVersion": "11.0",
   "swMandatory": false,
   "swRelease": "2024-05-31T12:32:56Z",
-  "swURL": "https://arduinolimelocker.github.io/iFood43-26/AppLockerLime_FULL_V12_LIME4A_IFOOD.ino.esp32.bin", 
-  "swName": "AppLockerLime_FULL_V12_LIME4A_IFOOD.ino.esp32.bin",
+  "swURL": "https://arduinolimelocker.github.io/iFood43-26/AppLockerLime_FULL_V13_LIME4A_IFOOD.ino.esp32.bin", 
+  "swName": "AppLockerLime_FULL_V13_LIME4A_IFOOD.ino.esp32.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
   "fsRelease": "2024-05-31T12:32:56Z",
   "fsURL": "",
-  "fsName": "AppLockerLime_FULL_V12_LIME4A_IFOOD.ino.esp32"
+  "fsName": "AppLockerLime_FULL_V13_LIME4A_IFOOD.ino.esp32"
 }
