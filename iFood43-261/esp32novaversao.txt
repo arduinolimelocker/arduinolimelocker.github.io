@@ -1,0 +1,12 @@
+{
+  "swVersion": "3.0",
+  "swMandatory": false,
+  "swRelease": "2024-05-31T12:32:56Z",
+  "swURL": "https://arduinolimelocker.github.io/iFood43-261/WATCHDOG_IFOOD_V5.ino.esp32.bin", 
+  "swName": "WATCHDOG_IFOOD_V5.ino.esp32.bin",
+  "fsVersion": "0.0",
+  "fsMandatory": false,
+  "fsRelease": "2024-05-31T12:32:56Z",
+  "fsURL": "",
+  "fsName": "WATCHDOG_IFOOD_V5.ino.esp32"
+}
