@@ -1,5 +1,5 @@
 {
   "swVersion": "1.0.10",
   "swMandatory": true,
-  "swURL": "192.168.10.177:8080/testeWatchdog_8266.ino.generic.bin"
+  "swURL":"https://raw.githubusercontent.com/arduinolimelocker/arduinolimelocker.github.io/main/WatchDog8266_iFood43-26/testeWatchdog_8266.ino.generic.bin"
 }
