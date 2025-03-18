@@ -1,5 +1,5 @@
 {
   "swVersion": "1.0.10",
   "swMandatory": true,
-  "swURL": "https://raw.githubusercontent.com/KauaSg/watchDog/refs/heads/main/454545.ino.generic.bin "
+  "swURL": "192.168.10.177:8080/testeWatchdog_8266.ino.generic.bin"
 }
