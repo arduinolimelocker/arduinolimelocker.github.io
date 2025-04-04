@@ -1,5 +1,5 @@
 {
-  "swVersion": "9.0",
+  "swVersion": "10.0",
   "swMandatory": false,
   "swRelease": "2024-05-31T12:32:56Z",
   "swURL": "https://arduinolimelocker.github.io/iFood-Filipe/AppLockerLime_FULL_V15_LIME4A_IFOOD_24CH_PROD_KAUA.ino.esp32.bin", 
