@@ -1,0 +1,12 @@
+{
+  "swVersion": "17.0",
+  "swMandatory": false,
+  "swRelease": "2024-05-31T12:32:56Z",
+  "swURL": "https://arduinolimelocker.github.io/iFood43-98/LOCKERIFOOD_V1_FULL.ino.esp32s3.bin", 
+  "swName": "LOCKERIFOOD_V1_FULL.ino.esp32s3.bin",
+  "fsVersion": "0.0",
+  "fsMandatory": false,
+  "fsRelease": "2024-05-31T12:32:56Z",
+  "fsURL": "",
+  "fsName": "LOCKERIFOOD_V1_FULL.ino.esp32s3"
+}
