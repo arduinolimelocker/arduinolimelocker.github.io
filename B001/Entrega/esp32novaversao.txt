@@ -1,5 +1,5 @@
 {
-  "swVersion": "5.0",
+  "swVersion": "4.0",
   "swMandatory": false,
   "swRelease": "2024-05-31T12:32:56Z",
   "swURL": "https://arduinolimelocker.github.io/B001/Entrega/FIRMWARE_BOBS_DISPLAY_V4.ino.esp32s3.bin", 
