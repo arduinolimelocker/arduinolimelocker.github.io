@@ -1,12 +1,12 @@
 {
-  "swVersion": "4.0",
+  "swVersion": "3.0",
   "swMandatory": false,
   "swRelease": "2024-05-31T12:32:56Z",
-  "swURL": "https://arduinolimelocker.github.io/B001/Retirada/FIRMWARE_BOBS_DISPLAY_V4.ino.esp32s3.bin", 
-  "swName": "FIRMWARE_BOBS_DISPLAY_V4.ino.esp32s3.bin",
+  "swURL": "https://arduinolimelocker.github.io/B001/Retirada/FIRMWARE_BOBS_DISPLAY_V3.ino.esp32s3.bin", 
+  "swName": "FIRMWARE_BOBS_DISPLAY_V3.ino.esp32s3.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
   "fsRelease": "2024-05-31T12:32:56Z",
   "fsURL": "",
-  "fsName": "FIRMWARE_BOBS_DISPLAY_V4.ino.esp32s3"
+  "fsName": "FIRMWARE_BOBS_DISPLAY_V3.ino.esp32s3"
 }
