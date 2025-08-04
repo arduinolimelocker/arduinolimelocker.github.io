@@ -6,7 +6,7 @@
   "swName": "FIRMWARE_BOBS_DISPLAY_V7.ino.esp32s3.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
-  "fsRelease": "2024-05-31T12:32:56Z",
+  "fsRelease": "2024-05-31T12:33:56Z",
   "fsURL": "",
   "fsName": "FIRMWARE_BOBS_DISPLAY_V7.ino.esp32s3"
 }
