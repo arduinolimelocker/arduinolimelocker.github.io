@@ -1,5 +1,5 @@
 {
-  "swVersion": "8.0",
+  "swVersion": "8.1",
   "swMandatory": false,
   "swRelease": "2024-05-31T12:32:56Z",
   "swURL": "https://arduinolimelocker.github.io/B001/Retirada/FIRMWARE_BOBS_DISPLAY_V7.ino.esp32s3.bin", 
