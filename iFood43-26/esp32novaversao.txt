@@ -1,12 +1,12 @@
 {
-  "swVersion": "22.0",
+  "swVersion": "14.0",
   "swMandatory": false,
   "swRelease": "2024-05-31T12:32:56Z",
-  "swURL": "https://arduinolimelocker.github.io/iFood43-26/LOCKERIFOOD_V2_FULL.ino.esp32.bin", 
-  "swName": "LOCKERIFOOD_V2_FULL.ino.esp32.bin",
+  "swURL": "https://arduinolimelocker.github.io/iFood43-26/IFOOD_V1-4_NEXTION.ino.esp32.bin", 
+  "swName": "IFOOD_V1-4_NEXTION.ino.esp32.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
   "fsRelease": "2024-05-31T12:32:56Z",
   "fsURL": "",
-  "fsName": "LOCKERIFOOD_V2_FULL.ino.esp32"
+  "fsName": "IFOOD_V1-4_NEXTION.ino.esp32"
 }
