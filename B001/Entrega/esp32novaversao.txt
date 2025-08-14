@@ -1,12 +1,12 @@
 {
-  "swVersion": "7.0",
+  "swVersion": "8.2",
   "swMandatory": false,
   "swRelease": "2024-05-31T12:32:56Z",
   "swURL": "https://arduinolimelocker.github.io/B001/Entrega/FIRMWARE_BOBS_DISPLAY_V7.ino.esp32s3.bin", 
   "swName": "FIRMWARE_BOBS_DISPLAY_V7.ino.esp32s3.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
-  "fsRelease": "2024-05-31T12:32:56Z",
+  "fsRelease": "2024-05-31T12:33:56Z",
   "fsURL": "",
   "fsName": "FIRMWARE_BOBS_DISPLAY_V7.ino.esp32s3"
 }
