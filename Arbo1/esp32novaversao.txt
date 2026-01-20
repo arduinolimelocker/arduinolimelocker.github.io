@@ -2,7 +2,7 @@
   "swVersion": "15.0",
   "swMandatory": false,
   "swRelease": "2026-01-20T12:32:56Z",
-  "swURL":"https://arduinolimelocker.github.io/VivioLindoia/AppLockerLime_LIME5B.ino.esp32.bin", 
+  "swURL":"https://arduinolimelocker.github.io/Arbo1/AppLockerLime_LIME5B.ino.esp32.bin", 
   "swName": "AppLockerLime_LIME5B.ino.esp32.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
