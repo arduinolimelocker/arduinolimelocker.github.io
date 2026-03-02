@@ -1,0 +1,12 @@
+{
+  "swVersion": "1.1",
+  "swMandatory": false,
+  "swRelease": "2026-03-02T15:32:56Z",
+  "swURL": "https://arduinolimelocker.github.io/iFood2026/cliqueretire_ifood_loja_nextion_12ch_V2.ino.esp32s3.bin", 
+  "swName": "cliqueretire_ifood_loja_nextion_12ch_V2.ino.esp32s3.bin",
+  "fsVersion": "0.0",
+  "fsMandatory": false,
+  "fsRelease": "2024-05-31T12:32:56Z",
+  "fsURL": "",
+  "fsName": "cliqueretire_ifood_loja_nextion_12ch_V2.ino.esp32s3"
+}
