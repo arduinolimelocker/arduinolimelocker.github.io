@@ -1,12 +1,12 @@
 {
-  "swVersion": "1.3",
+  "swVersion": "1.4",
   "swMandatory": false,
-  "swRelease": "2026-04-07T14:20:56Z",
-  "swURL": "https://arduinolimelocker.github.io/iFoodBKLoja/cliqueretire_ifood_loja_nextion_12ch_V1-3.ino.esp32s3.bin", 
-  "swName": "cliqueretire_ifood_loja_nextion_12ch_V1-3.ino.esp32s3.bin",
+  "swRelease": "2026-04-08T14:20:56Z",
+  "swURL": "https://arduinolimelocker.github.io/iFoodBKLoja/cliqueretire_ifood_loja_nextion_12ch_V1-4.ino.esp32s3.bin", 
+  "swName": "cliqueretire_ifood_loja_nextion_12ch_V1-4.ino.esp32s3.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
-  "fsRelease": "2026-04-07T14:20:56Z",
+  "fsRelease": "2026-04-08T14:20:56Z",
   "fsURL": "",
-  "fsName": "cliqueretire_ifood_loja_nextion_12ch_V1-3.ino.esp32s3"
+  "fsName": "cliqueretire_ifood_loja_nextion_12ch_V1-4.ino.esp32s3"
 }
