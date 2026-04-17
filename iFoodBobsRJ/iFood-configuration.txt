@@ -1,5 +1,5 @@
 {
-  "swVersion": "1.7",
+  "swVersion": "1.8",
   "swMandatory": false,
   "swRelease": "2026-04-08T14:20:56Z",
   "swURL": "https://arduinolimelocker.github.io/iFoodBobsRJ/cliqueretire_ifood_loja_nextion_12ch_V1-6.ino.esp32s3.bin", 
