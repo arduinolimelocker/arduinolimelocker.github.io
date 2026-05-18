@@ -1,12 +1,12 @@
 {
-  "swVersion": "15.0",
+  "swVersion": "16.0",
   "swMandatory": false,
   "swRelease": "2026-01-20T12:32:56Z",
-  "swURL":"https://arduinolimelocker.github.io/VivioLindoia/AppLockerLime_LIME5B.ino.esp32.bin", 
-  "swName": "AppLockerLime_LIME5B.ino.esp32.bin",
+  "swURL":"https://arduinolimelocker.github.io/VivioLindoia/LOCKER_V1_PLACA_LIMELOCKER_LIME5B.ino.esp32.bin", 
+  "swName": "LOCKER_V1_PLACA_LIMELOCKER_LIME5B.ino.esp32.bin",
   "fsVersion": "0.0",
   "fsMandatory": false,
   "fsRelease": "2026-01-20T12:32:56Z",
   "fsURL": "",
-  "fsName": "AppLockerLime_LIME5B.ino.esp32"
+  "fsName": "LOCKER_V1_PLACA_LIMELOCKER_LIME5B.ino.esp32"
 }
