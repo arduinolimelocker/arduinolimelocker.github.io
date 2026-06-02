@@ -1,5 +1,5 @@
 {
-  "swVersion": "14.0",
+  "swVersion": "13.0",
   "swMandatory": false,
   "swRelease": "2024-05-31T12:32:56Z",
   "swURL": "https://arduinolimelocker.github.io/iFood123-37/IFOOD_V1-3_NEXTION_12CH.ino.esp32s3.bin", 
