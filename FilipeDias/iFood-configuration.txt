@@ -1,5 +1,5 @@
 {
-  "swVersion": "2.3",
+  "swVersion": "2.1",
   "swMandatory": false,
   "swURL": "https://arduinolimelocker.github.io/VIPSushi/cliqueretire_ifood_loja_nextion_12ch_2sides_V1-5_ESP32P4.ino.esp32s3.bin"
 }
