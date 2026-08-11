@@ -1,12 +1,5 @@
 {
   "swVersion": "2.3",
   "swMandatory": false,
-  "swRelease": "2026-08-11T12:32:56Z",
   "swURL": "https://arduinolimelocker.github.io/VIPSushi/cliqueretire_ifood_loja_nextion_12ch_2sides_V1-5_ESP32P4.ino.esp32s3.bin", 
-  "swName": "cliqueretire_ifood_loja_nextion_12ch_2sides_V1-5_ESP32P4.ino.esp32s3.bin",
-  "fsVersion": "0.0",
-  "fsMandatory": false,
-  "fsRelease": "2026-08-11T12:32:56Z",
-  "fsURL": "",
-  "fsName": "cliqueretire_ifood_loja_nextion_12ch_2sides_V1-5_ESP32P4.ino.esp32s3"
 }
