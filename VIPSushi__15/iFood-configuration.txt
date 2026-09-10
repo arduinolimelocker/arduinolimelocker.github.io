@@ -1,5 +1,5 @@
 {
-  "swVersion": "2.4",
+  "swVersion": "2.5",
   "swMandatory": false,
   "swURL": "https://arduinolimelocker.github.io/VIPSushi__15/ifood.ino.esp32s3.bin" 
 }
