@@ -1,1 +1,1 @@
-{"swVersion": "1.1", "swURL": "https://arduinolimelocker.github.io/VIPFilipe/lvgl_ifood_7.bin", "swSize": 3314880, "swCrc32": "b2bb046e"}
+{"swVersion": "1.2", "swURL": "https://arduinolimelocker.github.io/VIPFilipe/lvgl_ifood_7.bin", "swSize": 3316976, "swCrc32": "b5cf2125"}
