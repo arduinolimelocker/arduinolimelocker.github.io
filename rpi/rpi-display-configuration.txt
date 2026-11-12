@@ -1,0 +1,7 @@
+{
+  "swVersion": "1.0.2",
+  "swArch": "arm64",
+  "swURL": "https://arduinolimelocker.github.io/rpi/rpi_display10-1.0.2-arm64.tar.gz",
+  "swSize": 471267,
+  "swSha256": "db34b273f35bec5fa82413cef7d9e932ec2deebc67e7c123a73fdf9ea22811a1"
+}
